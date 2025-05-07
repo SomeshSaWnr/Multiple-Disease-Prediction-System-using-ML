@@ -28,7 +28,7 @@ The diseases currently supported by this web app include:
 
 ## Web App
 
-- [Access the Web App](https://multiple-disease-prediction-using-ml.streamlit.app/) - Use the web app to predict multiple diseases.
+- [Access the Web App](https://multiple-disease-prediction-system-using-ml-4mc4f8lhkeptgayaev.streamlit.app/) - Use the web app to predict multiple diseases.
 
 ## Installation
 
